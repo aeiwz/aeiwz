@@ -2,6 +2,9 @@
 # 💫 About Me:
 🤖 Currently, I am working on improving my functional programing development skills.<br>🎓 I am currently leaning dynamic programming.<br>🤝 I am interested in collaborating on open-source projects.<br>🥽 Feel free to ask me about anything, I am always happy to learn more.<br>🎤 Pronouns: He/Him<br>🥇 Fun Fact I love playing video games.
 
+## 💻Python Packages:
+- metbit
+- lingress
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aeiwz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aeiwtheerayut) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Constant_Leather_937/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18268816/aeiwz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aeiwz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@casix_xisac) 
@@ -27,9 +30,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aeiwz&icon=6&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aeiwz) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
