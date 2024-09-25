@@ -1,6 +1,6 @@
 ![coding room](src/img/IMG_9776.png)
 # 💫 About Me:
-🤖 Currently, I am working on improving my functional programing development skills.<br>🎓 I am currently leaning dynamic programming.<br>🤝 I am interested in collaborating on open-source projects.<br>🥽 Feel free to ask me about anything, I am always happy to learn more.<br>🎤 Pronouns: He/Him<br>🥇 Fun Fact I love playing video games.
+🤖 Currently, I am working on improving my functional programing development skills.<br>🎓 I am currently learning dynamic programming.<br>🤝 I am interested in collaborating on open-source projects.<br>🥽 Feel free to ask me about anything, I am always happy to learn more.<br>🎤 Pronouns: He/Him<br>🥇 Fun Fact I love playing video games.
 
 
 ## 🌐 Socials:
