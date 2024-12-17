@@ -19,3 +19,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aeiwz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+
+## **Publication:**
+1. MATRA, K., SAENGHA, W., KARIRAT, T., NAKHOWONG, K., PATTANU, P., KITKAYUN, P., **BUBPAMALA, T.**, BURANRAT, B., KATISART, T., & LUANG-IN, V. (2022). Antioxidant activity of mustard green and Thai rat-tailed radish grown from cold plasma treated seeds and their anticancer efficacy against A549 lung cancer cells. Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 50(2), 12751. https://doi.org/10.15835/nbha50212751
+2. Karunasumetta, C., Tourthong, W., Mala, R., Chatgasem, C., **Bubpamala, T.**, Punchai, S., & Sawanyawisuth, K. (2024). Comparative Analysis of Metabolomic Responses in On-Pump and Off-Pump Coronary Artery Bypass Grafting. Annals of thoracic and cardiovascular surgery : official journal of the Association of Thoracic and Cardiovascular Surgeons of Asia, 30(1), 24-00126. https://doi.org/10.5761/atcs.oa.24-00126
