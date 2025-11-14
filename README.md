@@ -133,18 +133,6 @@
 
 ---
 
-<!-- ===== Trophies ===== -->
-<h2 id="trophies">🏆 GitHub Trophies</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-profile-trophy.vercel.app/?username=Aeiwz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-profile-trophy.vercel.app/?username=Aeiwz&theme=flat&no-frame=true&margin-w=8&margin-h=8" />
-    <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=Aeiwz&no-frame=true&margin-w=8&margin-h=8" />
-  </picture>
-</p>
-
 <!-- ===== Quotes & Contributors ===== -->
 <h3 id="quote">✍️ Random Dev Quote</h3>
 <p>
