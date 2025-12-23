@@ -31,6 +31,14 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 - Metabolomic data analysis and biomarker discovery
 - Cloud-based bioinformatics pipelines (AWS, GCP, Azure)
 
+### 🤖 AI Development Focus
+- **Deep Learning for Medical Imaging**: Developing CNN and transformer-based models for disease diagnosis and prognosis
+- **Natural Language Processing**: Applying NLP techniques to biomedical literature mining and clinical text analysis
+- **Generative AI**: Exploring large language models (LLMs) and their applications in scientific research and data analysis
+- **AI-Driven Drug Discovery**: Utilizing machine learning for molecular property prediction and target identification
+- **Automated ML Pipelines**: Building scalable MLOps workflows for reproducible AI research
+- **Explainable AI (XAI)**: Implementing interpretable models for healthcare applications to ensure transparency and trust
+
 <br/>
 
 <!-- ===== Socials ===== -->
@@ -64,6 +72,9 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/mlflow-%231f66f2.svg?style=flat&logo=mlflow&logoColor=white" alt="mlflow"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 
 ### 📊 Data Science & Analysis
