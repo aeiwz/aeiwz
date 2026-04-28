@@ -180,17 +180,6 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
   </picture>
 </p>
 
-<h2 id="top-repos">🔝 Top Contributed Repos</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-contributor-stats.vercel.app/api?username=Aeiwz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-contributor-stats.vercel.app/api?username=Aeiwz&limit=5&theme=light&combine_all_yearly_contributions=true" />
-    <img alt="Top contributed repositories" src="https://github-contributor-stats.vercel.app/api?username=Aeiwz&limit=5&combine_all_yearly_contributions=true" />
-  </picture>
-</p>
-
 ---
 
 <!-- ===== Connect ===== -->
