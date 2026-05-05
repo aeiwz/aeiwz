@@ -29,7 +29,9 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 - Advanced machine learning applications in healthcare
 - Gut microbiome analysis and its relationship with disease
 - Metabolomic data analysis and biomarker discovery
-- Cloud-based bioinformatics pipelines (AWS, GCP, Azure)
+- Cloud-based bioinformatics pipelines
+- Dynamic programing
+- High performance computing programing
 
 ### 🤖 AI Development Focus
 - **Deep Learning for Medical Imaging**: Developing CNN and transformer-based models for disease diagnosis and prognosis
