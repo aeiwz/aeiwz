@@ -139,32 +139,18 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 <div align="center">
   <br/>
   <!-- Stats + Languages side-by-side on wide screens; stack on mobile -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=Aeiwz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats.vercel.app/api?username=Aeiwz&theme=default&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aeiwz&show_icons=true" width="49%">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeiwz&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=false&count_private=false" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeiwz&theme=default&hide_border=true&layout=compact&include_all_commits=false&count_private=false" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeiwz&layout=compact" width="49%">
-  </picture>
+  <img alt="GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=aeiwz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github&cache_seconds=86400&v=2"
+       width="49%" />
+  <img alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeiwz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400&v=2"
+       width="49%" />
 
   <br/>
 
-  <!-- Streak (moved from herokuapp to the recommended domain) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://streak-stats.demolab.com?user=Aeiwz&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://streak-stats.demolab.com?user=Aeiwz&theme=default&hide_border=true" />
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Aeiwz" />
-  </picture>
+  <!-- Streak stats -->
+  <img alt="GitHub streak"
+       src="https://streak-stats.demolab.com?user=aeiwz&theme=tokyonight&hide_border=true&v=2" />
 
 </div>
 
@@ -173,13 +159,8 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 <!-- ===== Quotes & Contributors ===== -->
 <h2 id="quote">✍️ Random Dev Quote</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-  </picture>
+  <img alt="Random developer quote"
+       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2" />
 </p>
 
 ---
@@ -231,7 +212,7 @@ I'm actively involved in scientific research at the intersection of bioinformati
 
 <!-- Footer spacer -->
 <p align="center">
-  <sub>💡 This profile uses adaptive dark/light mode themes via <code>&lt;picture&gt;</code> elements for better viewing experience</sub>
+  <sub>💡 Stats cards use <code>cache_seconds=86400</code> to reduce rate-limit failures and load more reliably</sub>
 </p>
 
 <p align="center">
