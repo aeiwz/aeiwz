@@ -39,7 +39,7 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 - **Generative AI**: Exploring large language models (LLMs) and their applications in scientific research and data analysis
 - **AI-Driven Drug Discovery**: Utilizing machine learning for molecular property prediction and target identification
 - **Automated ML Pipelines**: Building scalable MLOps workflows for reproducible AI research
-- **Explainable AI (XAI)**: Implementing interpretable models for healthcare applications to ensure transparency and trust
+- **Explainable AI**: Implementing interpretable models for healthcare applications to ensure transparency and trust
 
 <br/>
 
