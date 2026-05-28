@@ -139,21 +139,17 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 <div align="center">
 
   <!-- Stats + Languages side-by-side on wide screens; stack on mobile -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=Aeiwz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats.vercel.app/api?username=Aeiwz&theme=default&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aeiwz&show_icons=true" width="49%">
-  </picture>
+  <img
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=aeiwz&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1800"
+    width="49%"
+  />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeiwz&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=false&count_private=false" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeiwz&theme=default&hide_border=true&layout=compact&include_all_commits=false&count_private=false" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeiwz&layout=compact" width="49%">
-  </picture>
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeiwz&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800"
+    width="49%"
+  />
 
   <br/>
 
