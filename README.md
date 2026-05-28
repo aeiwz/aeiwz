@@ -30,8 +30,8 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 - Gut microbiome analysis and its relationship with disease
 - Metabolomic data analysis and biomarker discovery
 - Cloud-based bioinformatics pipelines
-- Dynamic programing
-- High performance computing programing
+- Dynamic programming
+- High performance computing programming
 
 ### 🤖 AI Development Focus
 - **Deep Learning for Medical Imaging**: Developing CNN and transformer-based models for disease diagnosis and prognosis
@@ -51,7 +51,7 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
   <a href="https://www.reddit.com/user/Constant_Leather_937/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge"></a>
   <a href="https://stackoverflow.com/users/18268816/aeiwz"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitch.tv/aeiwz"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge"></a>
-  <a href="https://x.com/@casix_xisac"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/casix_xisac"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
@@ -192,7 +192,7 @@ I'm always open to interesting conversations, collaboration opportunities, and k
 - 💼 **Professional**: [LinkedIn](https://linkedin.com/in/aeiwtheerayut)
 - 💻 **Code & Questions**: [Stack Overflow](https://stackoverflow.com/users/18268816/aeiwz)
 - 🎮 **Community**: [Discord](https://discord.gg/aeiwz)
-- 🐦 **Social**: [X/Twitter](https://x.com/@casix_xisac)
+- 🐦 **Social**: [X/Twitter](https://x.com/casix_xisac)
 - 📺 **Live Coding**: [Twitch](https://twitch.tv/aeiwz)
 
 Whether you want to discuss bioinformatics, data science, machine learning, or collaborate on research projects, don't hesitate to get in touch!
