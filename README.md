@@ -137,7 +137,7 @@ I'm a **Data Scientist** and **Bioinformatics Researcher** passionate about leve
 <h2 id="stats">📊 GitHub Stats</h2>
 
 <div align="center">
-
+  <br/>
   <!-- Stats + Languages side-by-side on wide screens; stack on mobile -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
