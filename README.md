@@ -72,13 +72,15 @@ Full publication records:
 [ResearchGate](https://www.researchgate.net/profile/Theerayut-Bubpamala-2/research) ·
 [ORCID](https://orcid.org/0000-0001-5176-5853)
 
-## Core Toolkit
+## Tech Stack
 
-- **Languages:** Python, R, C, MATLAB, and Shell
+- **Primary language:** Python
+- **Additional languages:** R, JavaScript, C, MATLAB, and Shell
+- **Web applications:** Next.js, React, Dash, Plotly, HTML, and CSS
 - **Scientific computing:** NumPy, pandas, SciPy, scikit-learn, statsmodels, and PyArrow
-- **Visualisation:** Plotly, Dash, Matplotlib, and ggplot2
-- **Engineering:** Git, GitHub Actions, PyPI packaging, pytest, and technical documentation
-- **Compute:** multiprocessing, OpenMP, CuPy, PyTorch, Dask, and Ray
+- **Software development:** Python libraries, command-line applications, setuptools, PyPI, and automated releases
+- **Quality and delivery:** pytest, Hypothesis, GitHub Actions, benchmarking, and technical documentation
+- **Data and compute:** Apache Arrow, Parquet, multiprocessing, OpenMP, CuPy, PyTorch, Dask, and Ray
 
 ## Current Focus
 
