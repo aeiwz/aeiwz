@@ -5,12 +5,13 @@
 <h1 align="center">Theerayut Bubpamala</h1>
 
 <p align="center">
-  <strong>Research Software Engineer · Bioinformatics · Metabolomics · Scientific Computing</strong>
+  <strong>Research Software Engineer · AI/ML · Bioinformatics · Signal & Image Processing</strong>
 </p>
 
 <p align="center">
   I build reproducible software and data workflows for biomedical research, with a focus on
-  NMR metabolomics, sequencing data, statistical modelling, and high-performance Python.
+  AI model development, NMR metabolomics, sequencing data, biomedical signals and images,
+  statistical modelling, and high-performance Python.
 </p>
 
 <p align="center">
@@ -39,7 +40,11 @@ to larger cohort workflows.
 
 - **Scientific software:** Python packages, command-line tools, interactive visualisation, and reproducible pipelines
 - **Biomedical data:** NMR metabolomics, microbiome and sequencing data, medical imaging, and biomarker analysis
-- **Statistical learning:** PCA, OPLS-DA, regression, resampling, validation, and interpretable visual analytics
+- **AI and machine learning:** model development, feature engineering, evaluation, explainability, and reproducible training workflows
+- **Deep learning:** neural networks for classification, representation learning, signal analysis, and image-based modelling
+- **Local AI and LLMs:** private model inference, prompt and model evaluation, local APIs, and hardware-aware deployment
+- **Signal and image processing:** preprocessing, denoising, feature extraction, segmentation, and quantitative analysis
+- **Statistical learning:** PCA, OPLS-DA, regression, resampling, validation, and interpretable analytics
 - **Performance engineering:** parallel processing, native C/OpenMP extensions, GPU backends, and memory-bounded algorithms
 
 ## Selected Work
@@ -78,13 +83,21 @@ Full publication records:
 - **Additional languages:** R, JavaScript, C, MATLAB, and Shell
 - **Web applications:** Next.js, React, Dash, Plotly, HTML, and CSS
 - **Scientific computing:** NumPy, pandas, SciPy, scikit-learn, statsmodels, and PyArrow
+- **AI and deep learning:** PyTorch, TensorFlow, model evaluation, explainable AI, and experiment workflows
+- **Local AI and LLM tooling:** Ollama, Hermes agents, Hugging Face, and Transformers.
+- **Signal and image processing:** `scipy.signal`, OpenCV, scikit-image, medical imaging, and spectral analysis
 - **Software development:** Python libraries, command-line applications, setuptools, PyPI, and automated releases
 - **Quality and delivery:** pytest, Hypothesis, GitHub Actions, benchmarking, and technical documentation
-- **Data and compute:** Apache Arrow, Parquet, multiprocessing, OpenMP, CuPy, PyTorch, Dask, and Ray
+- **Data and compute:** Apache Arrow, Parquet, multiprocessing, OpenMP, CuPy, Dask, and Ray
 
 ## Current Focus
 
 - Scaling metabolomics workflows for larger cohorts
+- Developing and evaluating machine learning and deep learning models for biomedical applications
+- Building local AI workflows with Ollama, Hermes, Hugging Face, and Transformer Lab
+- Running, comparing, and integrating LLMs through private local inference and API services
+- Processing physiological signals, spectra, and medical images for quantitative analysis
+- Building interpretable AI workflows for classification, prediction, segmentation, and biomarker discovery
 - Reliable and interpretable statistical software for biomedical research
 - Efficient dataframe, array, and scientific-computing systems
 - Practical sequencing utilities and reproducible research infrastructure
