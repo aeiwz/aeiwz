@@ -105,17 +105,11 @@ Full publication records:
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aeiwz&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    alt="Theerayut's GitHub statistics"
-    width="49%"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeiwz&layout=compact&langs_count=8&hide=html,jupyter%20notebook&hide_border=true&theme=transparent"
-    alt="Most used programming languages across public repositories, excluding generated HTML and notebook files"
-    width="49%"
-  >
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faeiwz&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&color=0A66C2" alt="Number of public repositories">
+  <img src="https://img.shields.io/github/followers/aeiwz?style=flat-square&logo=github&label=followers&color=0A66C2" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/aeiwz?affiliations=OWNER&style=flat-square&logo=github&label=total%20stars&color=0A66C2" alt="Total stars across public repositories">
 </p>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=aeiwz&hide_border=true&theme=transparent"
