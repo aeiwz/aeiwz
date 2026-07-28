@@ -57,7 +57,7 @@ to larger cohort workflows.
 | [**barcodactyl**](https://github.com/aeiwz/barcodactyl) | Command-line package that separates Oxford Nanopore reads into per-barcode FASTQ, SAM, or BAM files | Python, ONT, FASTQ, SAM/BAM |
 | [**seq-miner**](https://github.com/aeiwz/seq-miner) | Lightweight read extraction and filtering by ID, quality score, and length, with multithreaded FASTQ processing | Python, sequencing, CLI, data processing |
 
-Explore all [53 public repositories](https://github.com/aeiwz?tab=repositories), including
+Explore all [54 public repositories](https://github.com/aeiwz?tab=repositories), including
 biomedical analyses, teaching material, visualisation projects, and research prototypes.
 
 ## Research
@@ -120,6 +120,14 @@ Full publication records:
   <img
     src="https://streak-stats.demolab.com?user=aeiwz&hide_border=true&theme=transparent"
     alt="GitHub contribution streak"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aeiwz&hide_border=true&theme=github-compact&area=true"
+    alt="Contribution activity over the past year"
+    width="98%"
   >
 </p>
 
