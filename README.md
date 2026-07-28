@@ -106,19 +106,6 @@ Full publication records:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aeiwz&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    alt="Theerayut's GitHub statistics"
-    width="49%"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeiwz&layout=compact&langs_count=8&hide=html,jupyter%20notebook&hide_border=true&theme=transparent"
-    alt="Most used programming languages across public repositories, excluding generated HTML and notebook files"
-    width="49%"
-  >
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=aeiwz&hide_border=true&theme=transparent"
     alt="GitHub contribution streak"
   >
